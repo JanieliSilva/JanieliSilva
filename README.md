@@ -1,8 +1,6 @@
 
 ![image](https://user-images.githubusercontent.com/112900054/213537039-8a73e1b4-e952-42b0-b22d-b100afcbd29b.png)
-###  Meu nome é Janieli Tainar
-![image](https://user-images.githubusercontent.com/112900054/213539341-e0038daa-5e08-4f19-abe2-0e1e0f001f43.png)
-
+###  Meu nome é Janieli Tainar, tenho 20 anos e estou cursando BTI na UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO. 
 
 <!--
 **JanieliSilva/JanieliSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
