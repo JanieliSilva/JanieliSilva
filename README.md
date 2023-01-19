@@ -1,4 +1,6 @@
 ### Olá me chamo Janieli Tainar 
+![image](https://user-images.githubusercontent.com/112900054/213537039-8a73e1b4-e952-42b0-b22d-b100afcbd29b.png)
+
 
 <!--
 **JanieliSilva/JanieliSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
