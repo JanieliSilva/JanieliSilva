@@ -1,6 +1,7 @@
 
 ### Meu nome é Janieli Tainar, tenho 21 anos e estou cursando BTI na UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO
-![image](https://user-images.githubusercontent.com/112900054/213544383-a7a85824-5e46-4776-9cbd-5588160ada21.png)
+![image](https://github.com/JanieliSilva/JanieliSilva/assets/112900054/ee8df430-b859-412f-8137-416282bdafff)
+
 
 <!--
 **JanieliSilva/JanieliSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
