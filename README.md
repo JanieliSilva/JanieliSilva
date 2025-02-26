@@ -1,5 +1,5 @@
 
-### Meu nome é Janieli Tainar, tenho 21 anos e estou cursando BTI na UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO
+### Meu nome é Janieli Tainar, tenho 22 anos e estou cursando BTI na UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO
 ![image](https://github.com/JanieliSilva/JanieliSilva/assets/112900054/32e745f1-fb1d-4c67-b2c6-9a94e4287a88)
 
 
