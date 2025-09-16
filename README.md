@@ -3,7 +3,7 @@
 <img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/b27f41f3-1ca2-480e-82a9-00c96218cd60" />
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JanieliSilva&show_icons=true&title_color=3776AB&icon_color=#00FFFF&text_color=00FFFF&bg_color=1F222E)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JanieliSilva&show_icons=true&title_color= #A020F0&icon_color=#00FFFF&text_color= #A020F0&bg_color=1F222E)
 
 <div> 
   <a href="https://instagram.com/thaynar_silver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
