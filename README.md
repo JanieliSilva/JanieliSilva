@@ -1,6 +1,6 @@
 
-### Meu nome é Janieli Tainar, tenho 22 anos e estou cursando BTI na UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO
-<img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/b27f41f3-1ca2-480e-82a9-00c96218cd60" />
+### My name is Janieli. I am a university student at the Federal Rural University of the Semi-Arid in Rio Grande do Norte
+
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JanieliSilva&show_icons=true&title_color=800080&icon_color=800080&text_color=800080&bg_color=FFFFFF) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JanieliSilva&hide_border=true&layout=compact&langs_count=10&title_color=800080&text_color=800080&bg_color=FFFFFF)
 <div> 
