@@ -2,9 +2,8 @@
 ### Meu nome é Janieli Tainar, tenho 22 anos e estou cursando BTI na UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO
 <img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/b27f41f3-1ca2-480e-82a9-00c96218cd60" />
 
-<img ### Minhas Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JanieliSilva&show_icons=true&theme=dark&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JanieliSilva&show_icons=true&title_color=3776AB&icon_color=000080&text_color=00FFFF&bg_color=1F222E)
 
 <div> 
   <a href="https://instagram.com/thaynar_silver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
