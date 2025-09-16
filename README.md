@@ -1,7 +1,9 @@
 
 ### Meu nome é Janieli Tainar, tenho 22 anos e estou cursando BTI na UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO
 <img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/b27f41f3-1ca2-480e-82a9-00c96218cd60" />
-
+<div align="center">
+  <img src="https://github.com/JanieliSilva/JanieliSilva/blob/output/github-snake.svg" alt="github-snake" />
+</div>
 
 <div> 
   <a href="https://instagram.com/thaynar_silver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -11,7 +13,4 @@
   
 </div>
 
-<div align="center">
-  <img src="https://github.com/JanieliSilva/JanieliSilva/blob/output/github-snake.svg" alt="github-snake" />
-</div>
 
