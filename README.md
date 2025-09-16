@@ -11,3 +11,7 @@
   
 </div>
 
+<div align="center">
+  <img src="https://github.com/JanieliSilva/JanieliSilva/blob/output/github-snake.svg" alt="github-snake" />
+</div>
+
