@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JanieliSilva&theme=dark&rank_colors=800080&title_color=800080&no-bg=true&margin-w=4&margin-h=4&row=1&column=3&animation=true" alt="Janieli Tainar's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JanieliSilva&theme=dark&rank_colors=800080&title_color=800080&text_color=800080&no-bg=true&margin-w=4&margin-h=4&row=1&column=3&animation=true" alt="Janieli Tainar's GitHub Trophies" />
   </a>
 </div>
 
